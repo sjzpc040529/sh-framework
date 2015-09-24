@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/sh-framework.iml" filepath="$PROJECT_DIR$/sh-framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-dao/sh-framework-dao.iml" filepath="$PROJECT_DIR$/sh-framework-dao/sh-framework-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-domain/sh-framework-domain.iml" filepath="$PROJECT_DIR$/sh-framework-domain/sh-framework-domain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-facade/sh-framework-facade.iml" filepath="$PROJECT_DIR$/sh-framework-facade/sh-framework-facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-manager/sh-framework-manager.iml" filepath="$PROJECT_DIR$/sh-framework-manager/sh-framework-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-service/sh-framework-service.iml" filepath="$PROJECT_DIR$/sh-framework-service/sh-framework-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sh-framework-web/sh-framework-web.iml" filepath="$PROJECT_DIR$/sh-framework-web/sh-framework-web.iml" />
+    </modules>
+  </component>
+</project>
